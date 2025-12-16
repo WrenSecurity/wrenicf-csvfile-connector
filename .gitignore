@@ -110,3 +110,6 @@ local.properties
 
 # Created by .ignore support plugin (hsz.mobi)
 target.db
+
+# Test files
+src/test/resources/files/sync.csv.*
